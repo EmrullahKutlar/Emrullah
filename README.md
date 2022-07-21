@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emrullah</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahkutlar&label=Profile%20views&color=0e75b6&style=flat" alt="emrullahkutlar" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkutlar" alt="emrullahkutlar" /></a> </p>
 
 - 🔭 I’m currently working on [Vue3-ToDoList](https://github.com/EmrullahKutlar/Vue3-ToDoList)
 
 - 🌱 I’m currently learning **Golang**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EmrullahKutlar?tab=repositories](https://github.com/EmrullahKutlar?tab=repositories)
 
 - 💬 Ask me about **Vue.js**
 
