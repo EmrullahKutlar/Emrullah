@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullahkutlar" alt="emrullahkutlar" /></a> </p>
 
-- 🔭 I’m currently working on [Vue3-ToDoList](https://github.com/EmrullahKutlar/Vue3-ToDoList)
+<>- 🔭 I’m currently working on [Vue3-ToDoList](https://github.com/EmrullahKutlar/Vue3-ToDoList)
 
 - 🌱 I’m currently learning **Golang**
 
